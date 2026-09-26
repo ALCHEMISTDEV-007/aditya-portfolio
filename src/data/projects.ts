@@ -45,7 +45,6 @@ export const projects: Project[] = [
     className: "project-terminal",
     mark: "$_",
     note: "EVERY INPUT COUNTS",
-    href: githubProfile,
-    linkLabel: "GITHUB PROFILE",
+    href: `${githubProfile}/terminal-survivor`,
   },
 ];
