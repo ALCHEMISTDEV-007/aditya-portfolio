@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.npm-cache/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+/ChatGPT Image Sep 26, 2026, 03_43_16 PM.png
